@@ -4,7 +4,7 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 ![01-INTRO2](https://user-images.githubusercontent.com/32620288/136737651-36f0b131-6cec-4104-a2ea-b31906135c3d.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#verview
+### Overview
 
 This is a Colab Notebook,We selected to analyse a dataset relevant to Rental Bike Demand from Seoul, South Korea, which included climatic variables such as Temperature, Humidity, Rainfall, Snowfall, and Dew Point are all factors to consider. Temperature, among other factors. For the raw data that is available, First, a thorough pre-processing was carried out, followed by the regress and is the hourly rental bike count. in response to an Our model was able to explain the factors to some extent. Coordinating the hourly rental bike demand.
 
