@@ -48,12 +48,6 @@ Technology and tools wise this project covers,
 
 ### Technologies Used:
 
-![image](https://user-images.githubusercontent.com/32620288/136738487-76887962-fd0d-4f9a-abff-b80f51924e90.png)
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-![image](https://user-images.githubusercontent.com/32620288/136738694-2d41bc29-02a1-4713-8855-d0b321bca671.png)
-
-![image](https://user-images.githubusercontent.com/32620288/136738739-fc04b317-1f11-41de-a3fe-e07ddd08b9d7.png)
-
-![image](https://user-images.githubusercontent.com/32620288/136738904-0ba71408-f3e9-441a-b291-cf7a1fd5a8e4.png)
-
-![image](https://user-images.githubusercontent.com/32620288/136738832-4a7aafd3-b9a4-49b7-859c-c8cbf86066e5.png)
+[<img target="_blank" src="https://user-images.githubusercontent.com/32620288/139657460-40ef4562-76bd-43f5-bbca-47b6bd29863e.png" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)  [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org) [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)   [<img target="_blank" src="https://user-images.githubusercontent.com/32620288/137518674-f36c5ad3-3d64-4c7a-a07c-53f247750394.png" width=170>](https://colab.research.google.com/)
